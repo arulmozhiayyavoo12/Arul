@@ -12,7 +12,7 @@
 ## 2. Requirement Analysis Phase
  * **Functional Requirements:*
   * Process user profiles, health goals, and preferences.
-8  * AI-driven personalized workout and diet plan generation using Gemini API.
+  * AI-driven personalized workout and diet plan generation using Gemini API.
   * Interactive CLI / API response format for seamlessly retrieving recommendations.
   * **Non-Functional Requirements:*
   * Fast response time (< 2 seconds).
