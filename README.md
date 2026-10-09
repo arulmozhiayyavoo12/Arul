@@ -38,7 +38,7 @@
   ├── app.py              # Main application logic & Gemini API integration
   ├── README.md           # Project Documentation
   └── requirements.txt    # Required Python libraries
-  
+  (https://docs.google.com/document/d/1p7dCKt2A_LH47W1kZfNn7RalKlu_HQYkRIRoVUGQPLY/edit?usp=drive_link)
 5.   TESTING & QUALITY ASSURANCE PHASE
 ​Unit Testing: Verified core backend functions and prompt input parsing.
 ​Integration Testing: Tested end-to-end flow from user input to receiving Gemini AI responses.
